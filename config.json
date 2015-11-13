@@ -1,0 +1,5 @@
+{
+    "seleniumHost": "127.0.0.1",
+    "seleniumPort": 4444,
+    "port": 4000
+}

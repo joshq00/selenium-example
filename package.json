@@ -1,0 +1,33 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "description": "Use selenium via webdriverio in node",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "webdriverio": "^3.2.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joshq00/selenium-example.git"
+  },
+  "keywords": [
+    "selenium",
+    "node",
+    "webdriverio"
+  ],
+  "author": "Josh Quintana <josh.d.quintana@gmail.com> (http://joshq00.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshq00/selenium-example/issues"
+  },
+  "homepage": "https://github.com/joshq00/selenium-example#readme"
+}
